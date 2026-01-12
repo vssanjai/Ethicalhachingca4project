@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+
+# Node
+node_modules/
+
+# Environment variables
+.env
+
